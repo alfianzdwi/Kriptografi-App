@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kriptografi - Kel 4</string>
+    <string name="result">Hasil</string>
+    <string name="length">Masukan Text</string>
+    <string name="hint">Masukan Text</string>
+    <string name="execute">Enkripsi</string>
+    <string name="executee">Dekripsi</string>
+</resources>
